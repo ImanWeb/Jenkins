@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Hello Iman 28 Aug 2019 4.32pm</h2>
+<h2>Testing Jenkins automatic build</h2>
 </body>
 </html>
