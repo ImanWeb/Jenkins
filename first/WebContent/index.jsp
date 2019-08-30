@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p>wdhihi
 <h2>Testing Jenkins automatic build with ngrok 30 Aug 2019</h2>
 </body>
 </html>
